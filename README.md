@@ -1,0 +1,1 @@
+# homemade-image-compression-codec
